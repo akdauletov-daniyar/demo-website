@@ -2,9 +2,9 @@
 (totally vibecoded in a single prompt)
 ## How to run:
 ### Terminal 1 — Django Backend
-cd backend
+cd backend <br>
 python manage.py runserver 8000
 
 ### Terminal 2 — Vite Frontend
-cd frontend
+cd frontend<br>
 npm run dev
